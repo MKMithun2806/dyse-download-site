@@ -4,7 +4,7 @@ function App() {
       {/* Top-right live site link */}
       <nav className="absolute top-6 right-6">
         <a
-          href="https://dyse.ai.vercel.app"
+          href="https://dyse-ai.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
           className="text-orange-700 hover:text-orange-900 font-semibold text-sm transition-colors underline decoration-orange-400/50 hover:decoration-orange-600"
